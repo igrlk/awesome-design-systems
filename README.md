@@ -178,6 +178,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 - [Sherlo](https://sherlo.io/) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [Testing library](https://testing-library.com/) - Simple and complete testing utilities that encourage good testing practices.
 - [Designesy](https://www.designesy.org/) - 40-check design-contract verification engine with live URL scoring. Deterministic checks across tokens, motion, accessibility, typography, and copywriting. GitHub Action for CI gating, MCP server for AI agents.
+- [UI Verify](https://uiverify.ai/) - Visual testing for design systems built alongside coding agents. Snapshots Storybook stories (or Playwright and Vitest tests), shows the agent which components its change moved, and checks every pull request; a Figma export can serve as a story's baseline. Free for 10,000 snapshots a month, 50,000 for open-source projects.
 
 ## Books
 
